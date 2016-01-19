@@ -1,6 +1,6 @@
 # assemble-redirects [![NPM version](https://img.shields.io/npm/v/assemble-redirects.svg)](https://www.npmjs.com/package/assemble-redirects)
 
-> Generate a redirects data file from a stream of manifest files.
+> Generate a redirects file from a stream of manifest files.
 
 ## Install
 Install with [npm](https://www.npmjs.com/):

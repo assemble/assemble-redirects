@@ -1,6 +1,6 @@
 {
   "name": "assemble-redirects",
-  "description": "Generate a redirects data file from a stream of manifest files.",
+  "description": "Generate a redirects file from a stream of manifest files.",
   "version": "0.1.0",
   "homepage": "https://github.com/assemble/assemble-redirects",
   "author": "Brian Woodward (https://github.com/doowb)",
